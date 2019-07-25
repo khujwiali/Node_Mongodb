@@ -12,5 +12,5 @@
 
 ```env
 PORT=<PORT>
-MONGODB_URI=mongodb+srv://<dbuser>:<password>@khujwi-cluster-xfido.mongodb.net/test?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://<dbuser>:<password>@<clustername>-xfido.mongodb.net/test?retryWrites=true&w=majority
 ```
